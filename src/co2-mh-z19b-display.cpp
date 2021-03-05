@@ -18,6 +18,9 @@ Ticker beepTicker;
 Ticker stopToneTicker;
 Ticker printDotTicker;
 
+// Clément Matura Upload Function
+#include <clé.h>
+
 const char firmwareVersion[] = "v0.1.4";
 // TODO: evaluate to move BME280 setup and sht3x setup to individual functions
 
